@@ -1,0 +1,27 @@
+# Mercurial files
+.hg
+.hgignore
+
+# Created distributions
+dist
+maxe.egg-info
+
+# Generated/built files
+out
+
+# Private files
+pvt
+
+# tags file
+tags
+
+# Python venvs
+venv27
+venv37
+
+# Vim swap files
+*.swp
+
+# Compiled Python files
+*.pyc
+__pycache__

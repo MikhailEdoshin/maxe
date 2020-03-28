@@ -1,0 +1,4 @@
+<!ELEMENT items (item+)>
+<!ELEMENT item EMPTY>
+<!ATTLIST item
+        id      ID      #REQUIRED>
